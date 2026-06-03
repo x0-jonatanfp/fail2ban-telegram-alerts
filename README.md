@@ -67,7 +67,6 @@ Add the Telegram action to your jail configuration:
 
 ```ini
 [sshd]
-[🇪🇸 Español](README.es.md)
 enabled = true
 action = telegram
 ```
@@ -76,7 +75,6 @@ Or add it globally in `jail.local`:
 
 ```ini
 [DEFAULT]
-[🇪🇸 Español](README.es.md)
 action = telegram
 ```
 
