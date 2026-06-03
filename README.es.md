@@ -12,7 +12,7 @@
 
 ---
 
-🌐 **También disponible en:** [Inglés](README.md)
+<p align="center">🌐 <strong>También disponible en:</strong> <a href="README.md">Inglés</a></p>
 
 ---
 ## Características

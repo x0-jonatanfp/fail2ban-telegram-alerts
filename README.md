@@ -12,7 +12,7 @@
 
 ---
 
-🌐 **Also available in:** [Spanish](README.es.md)
+<p align="center">🌐 <strong>Also available in:</strong> <a href="README.es.md">Spanish</a></p>
 
 ---
 ## Features
