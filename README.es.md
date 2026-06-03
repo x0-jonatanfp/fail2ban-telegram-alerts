@@ -5,6 +5,9 @@
 [![MIT License](https://img.shields.io/badge/Licencia-MIT-green.svg)](LICENSE)
 [![Shell Script](https://img.shields.io/badge/creado_con-Bash-4EAA25)]()
 
+
+[🇬🇧 English](README.md)
+
 **Script de integración con Fail2ban que envía alertas de seguridad en tiempo real a Telegram cuando se bloquean IPs.**
 
 </div>
