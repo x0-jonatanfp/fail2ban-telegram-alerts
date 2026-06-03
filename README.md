@@ -9,10 +9,12 @@
 
 </div>
 
-🌐 **Also available in:** [Spanish](README.es.md)
 
 ---
 
+🌐 **Also available in:** [Spanish](README.es.md)
+
+---
 ## Features
 
 - **Real-time Telegram alerts** — Receive instant notifications when Fail2ban bans or unbans an IP

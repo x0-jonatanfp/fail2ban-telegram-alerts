@@ -9,10 +9,12 @@
 
 </div>
 
-🌐 **También disponible en:** [Inglés](README.md)
 
 ---
 
+🌐 **También disponible en:** [Inglés](README.md)
+
+---
 ## Características
 
 - **Alertas en tiempo real** — Recibe notificaciones instantáneas cuando Fail2ban bloquea o desbloquea una IP
