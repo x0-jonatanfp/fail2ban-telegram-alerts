@@ -4,7 +4,7 @@
 
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![Shell Script](https://img.shields.io/badge/built_with-Bash-4EAA25)]()
-[🇪🇸 Español](README.es.md)
+[Español](README.es.md)
 
 **Fail2ban integration script that sends real-time security alerts to Telegram when IPs are blocked.**
 

@@ -6,7 +6,7 @@
 [![Shell Script](https://img.shields.io/badge/creado_con-Bash-4EAA25)]()
 
 
-[🇬🇧 English](README.md)
+[English](README.md)
 
 **Script de integración con Fail2ban que envía alertas de seguridad en tiempo real a Telegram cuando se bloquean IPs.**
 
